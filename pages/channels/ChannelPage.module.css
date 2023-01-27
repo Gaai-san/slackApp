@@ -1,0 +1,21 @@
+.background {
+  width: 100%;
+  background-color: white;
+  padding: 20px 20px;
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: space-between;
+  color: black;
+}
+
+.header-with-messages {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  height: 44px;
+  background-color: aqua;
+  font-weight: bold;
+}
